@@ -1,4 +1,4 @@
-# HomeManagementSystem
+# HomeBudgetControl
 Project done by :  
 1. Arun Kochukadavil (mainly Back-end)
 2. Dhruvil Mehta (mainly Front-end)
